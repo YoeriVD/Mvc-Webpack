@@ -3,11 +3,14 @@
   "name": "webpack_mvc",
   "private": true,
   "devDependencies": {
-    "ts-loader": "^0.8.1",
+    "angular": "^1.5.0",
     "awesome-typescript-loader": "^0.15.10",
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.0",
+    "ts-loader": "^0.8.1",
     "typescript": "^1.7.5",
-    "webpack": "^1.12.13",
-    "angular": "^1.5.0"
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.13"
   },
   "scripts": {
     "postinstall": "tsd install"

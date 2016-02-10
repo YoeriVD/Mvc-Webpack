@@ -9,11 +9,8 @@ module.exports = {
   },
   resolve: {
     extensions: ["", ".webpack.js", ".web.js", ".ts", ".js"],
-//    root: [
-//      path.resolve('./src'),
-//    ],
     alias : {
-      //"core": path.resolve("./src/core/core.module")
+      "core": path.resolve("./src/core/core.module")
     }
 
   },
@@ -22,7 +19,9 @@ module.exports = {
         {
           test: /\.ts$/,
           loader: "ts-loader"
-        }
+        },
+        { test: /\.css$/, loader: "style!css" },
+        { test: /\.jpe?g$|\.gif$|\.png$|\.svg$|\.woff$|\.ttf$|\.eot$/, loader: "url" }
     ]
   }
 };

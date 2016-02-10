@@ -1,7 +1,8 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html>
 <head>
-  <title>@ViewBag.Title</title>
+  <title>Title</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Always use latest IE -->
   <meta http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=EDGE" />
@@ -18,10 +19,12 @@
     }
   </style>
 
-  <div ng-controller="MainController as main">
+<div ng-controller="MainController as main">
+  <div class="jumbotron">
     <p>Hello from {{main.greeting}}</p>
     <p>Hello from {{main.constant}}</p>
   </div>
+</div>
 
 
 </body>
