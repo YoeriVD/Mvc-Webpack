@@ -192,7 +192,6 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="package.json" />
     <Content Include="webpack.config.js" />
-    <None Include="Properties\PublishProfiles\WebPackMVC20160210123731.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -237,16 +236,6 @@
     <TypeScriptCompile Include="src\core\core.module.ts" />
     <TypeScriptCompile Include="src\core\messages.ts" />
     <TypeScriptCompile Include="src\main\main.controller.ts" />
-    <TypeScriptCompile Include="src\Typings\angular-file-upload\angular-file-upload.d.ts" />
-    <TypeScriptCompile Include="src\Typings\angular-ui-bootstrap\angular-ui-bootstrap.d.ts" />
-    <TypeScriptCompile Include="src\Typings\angular-ui-router\angular-ui-router.d.ts" />
-    <TypeScriptCompile Include="src\Typings\angularjs\angular.d.ts" />
-    <TypeScriptCompile Include="src\Typings\jqueryui\jqueryui.d.ts" />
-    <TypeScriptCompile Include="src\Typings\jquery\jquery.d.ts" />
-    <TypeScriptCompile Include="src\Typings\lodash\lodash.d.ts" />
-    <TypeScriptCompile Include="src\Typings\ng-file-upload\ng-file-upload.d.ts" />
-    <TypeScriptCompile Include="src\Typings\select2\select2.d.ts" />
-    <TypeScriptCompile Include="src\Typings\tsd.d.ts" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

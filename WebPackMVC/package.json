@@ -9,7 +9,7 @@
     "webpack": "^1.12.13",
     "angular": "^1.5.0"
   },
-  "dependencies": {
-   
+  "scripts": {
+    "postinstall": "tsd install"
   }
 }

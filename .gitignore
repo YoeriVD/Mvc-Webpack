@@ -203,3 +203,4 @@ $RECYCLE.BIN/
 
 #js files (using typescript)
 src/*.js
+node_modules
