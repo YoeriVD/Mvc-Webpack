@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "eblox_payroll",
+  "name": "webpack_mvc",
   "private": true,
   "devDependencies": {
     "ts-loader": "^0.8.1",
@@ -9,5 +9,7 @@
     "webpack": "^1.12.13",
     "angular": "^1.5.0"
   },
-  "dependencies": {}
+  "dependencies": {
+   
+  }
 }

@@ -13,7 +13,7 @@ module.exports = {
 //      path.resolve('./src'),
 //    ],
     alias : {
-      "core": path.resolve("./src/core/core.module")
+      //"core": path.resolve("./src/core/core.module")
     }
 
   },
