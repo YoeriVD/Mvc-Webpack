@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "eblox_payroll",
+  "private": true,
+  "devDependencies": {
+    "ts-loader": "^0.8.1",
+    "awesome-typescript-loader": "^0.15.10",
+    "typescript": "^1.7.5",
+    "webpack": "^1.12.13",
+    "angular": "^1.5.0"
+  },
+  "dependencies": {}
+}

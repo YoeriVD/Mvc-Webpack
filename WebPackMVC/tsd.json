@@ -1,0 +1,48 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "src/Typings",
+  "bundle": "src/Typings/tsd.d.ts",
+  "installed": {
+    "angularjs/angular.d.ts": {
+      "commit": "40c60850ad6c8175a62d5ab48c4e016ea5b3dffe"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "40c60850ad6c8175a62d5ab48c4e016ea5b3dffe"
+    },
+    "angular-ui-bootstrap/angular-ui-bootstrap.d.ts": {
+      "commit": "e48f0c7a0a5f9e9d35e9cfd7506461bab435cb49"
+    },
+    "angular-ui-router/angular-ui-router.d.ts": {
+      "commit": "e48f0c7a0a5f9e9d35e9cfd7506461bab435cb49"
+    },
+    "select2/select2.d.ts": {
+      "commit": "e48f0c7a0a5f9e9d35e9cfd7506461bab435cb49"
+    },
+    "jqueryui/jqueryui.d.ts": {
+      "commit": "e48f0c7a0a5f9e9d35e9cfd7506461bab435cb49"
+    },
+    "angular-file-upload/angular-file-upload.d.ts": {
+      "commit": "fb2b3b1e068c9ff7d8f9b0851c08d37d96c95c38"
+    },
+    "ng-file-upload/ng-file-upload.d.ts": {
+      "commit": "fb2b3b1e068c9ff7d8f9b0851c08d37d96c95c38"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "419793fb796b0e5c1ed11e018ad28475de0c3735"
+    },
+    "source-map/source-map.d.ts": {
+      "commit": "1a5b2a729d35b1d41e2d15818db013a3644c6ba4"
+    },
+    "uglify-js/uglify-js.d.ts": {
+      "commit": "1a5b2a729d35b1d41e2d15818db013a3644c6ba4"
+    },
+    "webpack/webpack.d.ts": {
+      "commit": "1a5b2a729d35b1d41e2d15818db013a3644c6ba4"
+    },
+    "node/node.d.ts": {
+      "commit": "1a5b2a729d35b1d41e2d15818db013a3644c6ba4"
+    }
+  }
+}
